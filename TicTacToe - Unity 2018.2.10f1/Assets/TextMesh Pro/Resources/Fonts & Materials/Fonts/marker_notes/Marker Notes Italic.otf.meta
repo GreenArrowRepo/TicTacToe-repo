@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9de6cd2812c1464499b91c0bd0b46359
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marker Notes
+  fontNames:
+  - Marker Notes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3e3aff88f69583a4c9b20a3fcdb5e031, type: 3}
+  - {fileID: 12800000, guid: 45221f8c477ae4a4fadd1c7512e7d0f2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
